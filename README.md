@@ -2,6 +2,7 @@
 
 ## Terms and Definitions
 **Irrational Number**
+
 A real number that cannot be written as a simple fraction. Irrational means not Rational.
 
 **Prime Number**
