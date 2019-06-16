@@ -1,15 +1,11 @@
 # College-Mathematics-CLEP-Study-Reference
 
 ## Terms and Definitions
-**Irrational Number**
+**Irrational Number:** A real number that cannot be written as a simple fraction. Irrational means not Rational.
 
-A real number that cannot be written as a simple fraction. Irrational means not Rational.
+**Prime Number:** A whole number greater than 1 whose only factors are 1 and itself.
 
-**Prime Number**
-A whole number greater than 1 whose only factors are 1 and itself.
-
-**Absolute Value**
-The magnitude of a real number without regard to its sign. Can be shown as follows: |-5| (which would be 5)
+**Absolute Value:** The magnitude of a real number without regard to its sign. Can be shown as follows: |-5| (which would be 5)
 
 **Independent event probability multiplication rule (AND)**
 Multiply everything! Example coming soon (sammiches) 
