@@ -8,9 +8,12 @@
 **Absolute Value:** The magnitude of a real number without regard to its sign. Can be shown as follows: |-5| (which would be 5)
 
 **Independent event probability multiplication rule (AND):** Multiply everything!
+
 `When Bill makes a sandwich, he may choose from among 3 kinds of rolls, 4 varieties of meat, and 2 types of sliced cheese. If he chooses one roll, one meat, and one cheese, how many different kinds if sandwiches can he make?`
+
 Answer: 24
- - 3x4x2 (multiply everything)
+
+**Explanation:** 3x4x2 (multiply everything)
 
 **Square Root:** a number which produces a specified quantity when multiplied by itself. 7 is a square root of 49.
 
@@ -21,7 +24,9 @@ Answer: 24
 2. The sum of the probabilities of all outcomes must equal 1
 
 ### Conditional Probability Chart
+
 `A bookstore has 900 books in stock, of which 600 are paperback (pb) and 300 are hardcover (hc). All of the books are either fiction (f) or nonfiction (nf). If 525 of the books are nonfiction and 375 of the nonfiction books are paperback, how many of the books are fiction and hardcover?`
+
 Answer: 150
 
 **Explanation:**
